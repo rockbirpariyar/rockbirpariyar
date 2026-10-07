@@ -43,19 +43,3 @@ software • technology • experiments
 <sub>© rockbir</sub>
 
 </div>
-
-<div align="center">
-
-<img src="./assets/profile.gif" width="100%">
-
-<br><br>
-
-<a href="https://www.instagram.com/r_rockbir/">Instagram</a>
-&nbsp; · &nbsp;
-<a href="https://x.com/Rockbir7">X</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/rockbir-pariyar-03225135b/">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:darnalrockbir@gmail.com">Email</a>
-
-</div>
