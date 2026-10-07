@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="./assets/rockbir-vtube.gif" width="280" alt="Rockbir">
+<img src="./assets/dark-souls.gif" width="280" alt="Rockbir">
 
 # ROCKBIR
 
